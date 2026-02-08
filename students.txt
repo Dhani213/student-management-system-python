@@ -1,0 +1,5 @@
+101,Riya,CSE,70
+102,Aman,BA,80
+103,Bharat,BSC,57
+104,Siya,PHD,92
+105,Golu,B-Pharma,66
