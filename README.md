@@ -23,4 +23,9 @@ Hi! We built a **Student Management System** in Python as part of my learning jo
 
 
 This beginner-friendly project helped me practice **real-world CRUD operations** in Python.  
+
 Feedback and suggestions are always  welcome!
+
+Contributors->
+1.Dhani
+2.Gitanshi
