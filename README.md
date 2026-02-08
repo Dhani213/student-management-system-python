@@ -26,6 +26,7 @@ This beginner-friendly project helped me practice **real-world CRUD operations**
 
 Feedback and suggestions are always  welcome!
 
-Contributors->
-1.Dhani
-2.Gitanshi
+## Contributors->
+- Dhani
+- Gitanshi
+
